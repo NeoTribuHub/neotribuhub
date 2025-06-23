@@ -1,0 +1,24 @@
+main {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: whitesmoke;
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    color: rgb(39, 114, 102);
+    text-shadow: 1px 1px black;
+}
+
+img {
+    border-radius: 10px;
+}
