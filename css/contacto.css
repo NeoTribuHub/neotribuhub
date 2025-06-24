@@ -21,16 +21,15 @@ section {
 
 form{
     width: 40%;
-
 }
 
-.btn {
+#button {
     background-color: black;
     border-color: rgb(39, 114, 102);
     color: rgb(39, 114, 102);
 }
 
-.btn:hover {
+#button:hover {
     background-color: rgb(39, 114, 102);
     border-color: black;
     color: black;
